@@ -1,0 +1,7 @@
+"Artistic","SongTitle","AlbumTitle","SongYear"
+"Iron Maiden","Out of the Silent Planet","Brave New World",""
+"Iron Maiden","Blood Brothers","Brave New World","2001"
+"Iron Maiden","Wasting Love","Fear of the Dark Live","1992"
+"Iron Maiden","Fear of the Dark","Fear of the Dark Tour","1992"
+"Iron Maiden","Weekend Warrior","Fear of the Dark","1992"
+"Iron Maiden","Chains of Misery","Fear of the Dark","1992"
